@@ -4,7 +4,7 @@
 ![image_processing20210722-25951-90hfg0](https://github.com/user-attachments/assets/2f30d5a0-01cb-43e7-875c-22a662348a16)
 
 <h4> Sobre mí</h4>
--------------------------------
+__________________________
 <p>Disfruto creando páginas webs y aplicaciones </p>
 <p>Las herramientas que uso diariamente como programadora son: HTML, CSS, Javascript, Nodejs, express, React,Vite, Postmam, MongoDB y Wordpress </p>
 <p>Y como UX/UI Designer tengo conocimentos en: Figma, Photoshop, Illustrator,Adobe Premier, Affnity, Adobe XD, Sketch, Miro </p>
