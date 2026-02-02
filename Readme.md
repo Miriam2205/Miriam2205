@@ -4,11 +4,11 @@
 ![image_processing20210722-25951-90hfg0](https://github.com/user-attachments/assets/2f30d5a0-01cb-43e7-875c-22a662348a16)
 
 <h2> Sobre mí</h2>
-<p>Disfruto creando páginas webs y aplicaciones </p>
-<p>Las herramientas que uso diariamente como programadora son: HTML, CSS, Javascript, Nodejs, express, React,Vite, Postmam, MongoDB y Wordpress </p>
-<p>Y como UX/UI Designer tengo conocimentos en: Figma, Photoshop, Illustrator,Adobe Premier, Affnity, Adobe XD, Sketch, Miro </p>
-<p> Tambén tengo conocimientos en Inteligencia Artificial, metodologías Ágiles como Design Thinking o Atomic Design para UX Design, UX Researc etc  </p>
-<P> Actualmente estoy estudiando un máster de Diseño UX/UI y Fullstack en CEI</P>
+<p>💘 Disfruto creando páginas webs y aplicaciones </p>
+<p>💻Las herramientas que uso diariamente como programadora son: HTML, CSS, Javascript, Nodejs, express, React,Vite, Postmam, MongoDB y Wordpress </p>
+<p>🖌️ Y como UX/UI Designer tengo conocimentos en: Figma, Photoshop, Illustrator,Adobe Premier, Affnity, Adobe XD, Sketch, Miro </p>
+<p>🗨️ Tambén tengo conocimientos en Inteligencia Artificial, metodologías Ágiles como Design Thinking o Atomic Design para UX Design, UX Researc etc  </p>
+<P>ℹ️ Actualmente estoy estudiando un máster de Diseño UX/UI/ Fullstack en CEI y hago trabajos como freelance de diseñadora UX/UI y Frontend Developer</P>
 
 
 
