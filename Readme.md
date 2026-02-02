@@ -2,7 +2,8 @@
 <h4 align="center">Soy una apasionada del diseño y desarrollo web. Creo sitios webs y aplicaciones, desde su diseño hasta su desarrollo en código.</h4>
 
 
-https://github.com/user-attachments/assets/a52144e2-20d2-46d9-954b-9c6d7dbebee9
+![image_processing20210722-25951-90hfg0](https://github.com/user-attachments/assets/2f30d5a0-01cb-43e7-875c-22a662348a16)
+
 
 
 - 💬 Ask me about **Figma, HTML, CSS, Javascript, ReactJs y Nodejs**
