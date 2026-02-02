@@ -1,6 +1,10 @@
 <h1 align="center">Hola 👋, Soy Miriam Lechuga</h1>
 <h4 align="center">Soy una apasionada del diseño y desarrollo web. Creo sitios webs y aplicaciones, desde su diseño hasta su desarrollo en código.</h4>
 
+
+https://github.com/user-attachments/assets/a52144e2-20d2-46d9-954b-9c6d7dbebee9
+
+
 - 💬 Ask me about **Figma, HTML, CSS, Javascript, ReactJs y Nodejs**
 
 
