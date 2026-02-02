@@ -7,7 +7,7 @@
 <p>💘 Disfruto creando páginas webs y aplicaciones </p>
 <p>💻Las herramientas que uso diariamente como programadora son: HTML, CSS, Javascript, Nodejs, express, React,Vite, Postmam, MongoDB y Wordpress </p>
 <p>🖌️ Y como UX/UI Designer tengo conocimentos en: Figma, Photoshop, Illustrator,Adobe Premier, Affnity, Adobe XD, Sketch, Miro </p>
-<p>🗨️ Tambén tengo conocimientos en Inteligencia Artificial, metodologías Ágiles como Design Thinking o Atomic Design para UX Design, UX Researc etc  </p>
+<p>🗨️ Tambén tengo conocimientos en Inteligencia Artificial, metodologías Ágiles como Design Thinking o Atomic Design para UX Design, UX Research etc  </p>
 <P>ℹ️ Actualmente estoy estudiando un máster de Diseño UX/UI/ Fullstack en CEI y hago trabajos como freelance de diseñadora UX/UI y Frontend Developer</P>
 
 
