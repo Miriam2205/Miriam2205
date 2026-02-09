@@ -5,10 +5,11 @@
 
 <h2> Sobre mí</h2>
 <p>💘 Disfruto creando páginas webs y aplicaciones </p>
-<p>💻Las herramientas que uso diariamente como programadora son: HTML, CSS, Javascript, Nodejs, express, React,Vite, Postmam, MongoDB y Wordpress </p>
-<p>🖌️ Y como UX/UI Designer uso diariamente: Figma, Photoshop, Illustrator,Adobe Premier, Affnity, Adobe XD, Sketch, Miro </p>
-<p>🗨️ Tambén tengo conocimientos en Inteligencia Artificial, metodologías Ágiles como Design Thinking o Atomic Design para UX Design, UX Research etc  </p>
-<P>ℹ️ Actualmente estoy estudiando un máster de Diseño UX/UI/ Fullstack en CEI y hago trabajos como freelance de diseñadora UX/UI y Frontend Developer</P>
+<p>🖌️ Como UX/UI Designer trabajo diariamente con herramientas de diseño, prototipado y testing: Figma, Photoshop, Illustrator,Adobe Premier, Affnity, Adobe XD, Sketch, Miro y Maze </p>
+<p> 🧠 Aplico metodologías de diseño centrado en el usuario como Design Thinking, Atomic Design, UX Research y testing de usabilidad </p>
+<p>💻Tengo una base sólida de conocimientos en programación para llevar el diseño al código y las tecnologías que uso para ello son: HTML, CSS, Javascript, Nodejs, express js, React, Vite, Postmam, MongoDB y Wordpress </p>
+<p>🗨️ Conocimientos técnicos en desarrollo web full-stack, aplicando buenas prácticas como uso de variables de entorno, middlewares y arquitectura modular </p>
+<P>ℹ️ Actualmente estoy estudiando un máster de Diseño UX/UI/ Fullstack en CEI y hago trabajos como freelance de diseñadora UX/UI y Fullstack Developer</P>
 
 
 
